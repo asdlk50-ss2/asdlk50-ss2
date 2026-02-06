@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi there!
+I'm a Game Developer creating tools for Unity.
 
-<!--
-**asdlk50-ss2/asdlk50-ss2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ My Assets
+**🧹 Safe Asset Cleaner**
+* A powerful tool to find unused assets, duplicates, and references in your Unity project.
+* [Documentation & Manual](https://github.com/본인아이디/Safe-Asset-Cleaner-Docs) ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact & Support
+If you have any questions or need support, please contact me:
+* Email: asdlk50@gmail.com  * Support Issue: [Link to Issues]
