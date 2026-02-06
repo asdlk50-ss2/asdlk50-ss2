@@ -10,4 +10,4 @@ I'm a Game Developer creating tools for Unity.
 
 ### 📫 Contact & Support
 If you have any questions or need support, please contact me:
-* Email: asdlk50@gmail.com  * Support Issue: [Link to Issues]
+* Email: asdlk50@gmail.com  * Support Issue: [[Link to Issues]](https://github.com/asdlk50-ss2/asdlk50-ss2/issues)
